@@ -1,0 +1,23 @@
+button {
+    margin-bottom: 20px;
+}
+#button1:hover {
+    background: #d4b2d6;
+    color: #007bff;
+    font-weight: bold;
+    transition: all 1s;
+    transform: scale(1.5);
+    border: 4px solid orange;
+
+}
+h1{
+    border-bottom : 2px solid blue;
+    text-align : center : center;
+    border-right : 2px black;
+}
+body{
+  background-image: url('image1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
